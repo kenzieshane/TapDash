@@ -1,0 +1,1 @@
+SANS SERIF is a font family. interpretation is up to the Operating System (OS). The Default look differs from one OS to another.
