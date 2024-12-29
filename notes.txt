@@ -1,0 +1,17 @@
+OG SKINS:
+(var <icon selected>)
+1 - Blue
+2 - Green
+3 - PInk
+4 - Orange
+5 - Red
+6 - Knight
+7 - Monster
+8 - Princess
+9 - Orange Fruit
+A - Physco
+
+New Custom Skin
+B - Neon Gold
+C - Purple Magenta
+
