@@ -1,6 +1,16 @@
-Land of Hope by https://pixabay.com/id/users/hd-studio-39817633/ via Pixabay.com
-Cinematic Piano by https://pixabay.com/id/users/hd-studio-39817633/ via Pixabay.com
-A slowed down and edited version of A Hero of the 80s_v3_60sec by https://pixabay.com/id/users/grand_project-19033897/ via pixabay.com
-
-Sans Serif & Open Sans provided by Google.
+Land of Hope by https://pixabay.com/id/users/hd-studio-39817633/ via 
+Pixabay.com
+Cinematic Piano by https://pixabay.com/id/users/hd-studio-39817633/ via 
+Pixabay.com
+A Hero of the 80s_v3_60sec by https://pixabay.com/id/users/grand_project-
+19033897/ via pixabay.com
+ ==[Tomb Of The Mask, Geometry Dash, and The Stanley Parable]==
+Open Sans provided by Google.
 Original by SteveIndoPlayScratch
+Thank you Turbowarp and Scratch developer team for making this possible.
+Turbowarp EXtensions also saved me a TON of times developing this.
+Visit https://github.com/kenzieshane/Legendofdashwebsit for more info.
+No AI were used in the development of this software. All of the game's assets
+are also licensed on the same way the whole project is licensed. 
+ 
+TL;DR Give Credits. It's just a Scratch/Turbowarp Project afterall...I'm Sorry.

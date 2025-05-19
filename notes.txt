@@ -1,4 +1,4 @@
-OG SKINS:
+OG SKINS (Made by SteveIndoPlayScratch):
 (var <icon selected>)
 1 - Blue
 2 - Green
@@ -11,7 +11,8 @@ OG SKINS:
 9 - Orange Fruit
 A - Physco
 
-New Custom Skin
+New Custom Skin (Made by Kenzie Shane)
 B - Neon Gold
 C - Purple Magenta
+and 100+ more.
 
